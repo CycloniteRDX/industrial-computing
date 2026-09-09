@@ -1,4 +1,4 @@
-# Industrial Informatics
+# Industrial Computing
 
 Coursework repository for the Industrial Informatics course.
 
